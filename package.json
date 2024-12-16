@@ -10,6 +10,14 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-community/checkbox": "^0.5.17",
+    "@react-native-vector-icons/common": "^11.0.0",
+    "@react-native-vector-icons/evil-icons": "^1.10.1",
+    "@react-native-vector-icons/fontawesome": "^4.7.0",
+    "@react-native-vector-icons/fontawesome6": "^6.7.1",
+    "@react-native-vector-icons/fontello": "^0.0.1",
+    "@react-native-vector-icons/material-design-icons": "^7.4.47",
+    "expo-checkbox": "^4.0.0",
     "react": "18.3.1",
     "react-native": "0.76.5"
   },
